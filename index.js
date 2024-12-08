@@ -6,10 +6,5 @@ function learning(a,b){
     let e =0;
     let f=0;
 //commit from dev
-
-//fpor dev-2
-
-//from dev-3
-
     return a+b;
 }
