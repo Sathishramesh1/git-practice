@@ -8,3 +8,7 @@ function learning(a,b){
 //commit from dev
     return a+b;
 }
+
+function dep2{
+    //from dep-2
+    }
