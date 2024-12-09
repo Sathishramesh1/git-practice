@@ -12,3 +12,6 @@ function learning(a,b){
 function from dep(){
     //fun dep1
 }
+function dep2{
+    //from dep-2
+    }
